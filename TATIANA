@@ -1,16 +1,10 @@
-# Crear un arreglo bidimensional de 3x3
-matriz = [
-    [1, 2, 3],
-    [4, 5, 6],
-    [7, 8, 9]
-]
+<h1>2424 - FUNDAMENTOS DE PROGRAMACION -- UEA-L-UFB-026</h1>
 
-# Acceder a un elemento específico
-elemento = matriz[1][2]  # Accede al elemento en la fila 2, columna 3 (valor 6)
-print("Elemento en la posición [1][2]:", elemento)
+<h3>Repositorio de código fuente utilizado en la Asignatura Fundamentos de Programación</h3>
 
-# Modificar un elemento específico
-matriz[0][0] = 10  # Cambiar el valor en la fila 1, columna 1
-print("Matriz después de modificar el primer elemento:")
-for fila in matriz:
-    print(fila)
+<p>
+    <strong>Institución: </strong>Universidad Estatal Amazónica <br>
+    <strong>Carrera: </strong>Ingeniería en Tecnologías de la Información y Comunicación <br>
+    <strong>Docente: </strong>Tatiana Esperanza Roa Quezada <br>
+    <strong>Semestre: </strong> Primer semestre <br>
+</p>
